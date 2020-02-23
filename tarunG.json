@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "burnished-range-269102",
+  "private_key_id": "a17fec2adddf2cb2c4fe586a5cd55104e305a4b9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCY0rZUTSw7c7No\ncWLlx82hkAArDKTY3GXdLRIwlmF/CN4V+HD6XTWsJpjuhZ6AsnLvVPcS+Vgh+Rpl\n1BI4ohbi9iQaHaZPHl9SuqALodq10uTJzvB+zVNbm0FnaKdXlbgss/8ZbiWJ9Ow6\n0KHvKrwV6sxDnOWkp46MbVQ/+t2n5Cq0jdB6wWWc+geQmxnloqylpG10K4kl5AjM\nEuw3sBi6hjU7PbSChKMd4cYVaOSRTCf1jvp53VYCR7t51Z5E9qNinVCphbmXQK3u\nAn8M8J7R4NR9vmq8nrjtEz1Df5oh0HLSv53ql8HcTMmbMY56UF7/35HoYLw8NeM9\n2TKvFfbHAgMBAAECggEABjcvvj8DSQm8JsfRz2mwdd0+/IE/pShVpkjCgCJlpb6N\nFdSsd6pZ1/4b4zuhBjf7z7sjb2yfxoX0qmaVNSN2jdWYA03oaThhhSJdBwwWsqV4\ns7KMeoPMW6H1Z4jMoZXPz1Wkzvp5YWKKRxwcMfeJfdS2aRuVBXzhIdoCfrWr1Tu0\n3pNnekTmnS0Tnz/w3TixL35zK1Id09POIVW/fkUIN2saGd0AQ1HLJOAmXhDUeJgF\nRyz4g2LRlunNLekXGP2i20F+gtyQWdYFwObiwtrlqlSIghImNiTwUmlnij/PDtFm\nNkcpnADzCCrqLvptte1KdoELCqe8WRBsuoMaGY2sHQKBgQDLHZZiePZynzdkOxZm\nKOqQ3hYX9fcznoQOflKg7zsAMb7nJ6n9oLVSbzVz6HSzWrwGIkT+m3SPNq3+pi9G\nwDvTRRMYIFqe1GeZ1/8Mo8IPs/KMAdw/YC/K9lanONLBiHHW6hWpHXBLVStW00w1\nXKmn9bzbZh64MFKZDFWWQnP2GwKBgQDAnPFfumWvIVNYPvFEQ8v/hnl6J7DvM5DF\na0u3Lz5zArioHoQYbhLiXKABGG4Q5v41ZilPuitodbOQYxAJC1uysFrAHOv8CYwL\nTi9GQaU3jYM2OdbnxG6xU+Asnu44oQJPTF4YCGgMPwIa3Vm7nuxzu9xblgQRgvQq\nQ/hvdjX8xQKBgQC+3HOm3sG+XYyAW+GlZ8dbD8W1CEUdNVQkBmIApixL93LK5YOg\nN7aK2sNgwkt/CcDrBqLMmSmDNb90LZb5JcRRt3PE1Qoye6dKciRRLUQ62z4Mf+cF\nio3+a1Jr2kJ4540JhXeLLYWK1GJgOTdAYW1uzcSEacZuD8Jd3LBD/PfYhwKBgCcY\nM83QUY9IXlhM/j9y21cT/lgS8lC60Kmha47U4gIKDVziRMGIpgCX+EoAoWaA3BwO\njlgGW4UqTrYBxWFwkr4kGWdg920CqxAoYGQMMvKhoH5DIyGLt0P62Ed2Qrfvxj4+\nK+MI4cWKjGzTfMEeMrQS71kPi+faAqEJhsVo4vBZAoGAHmwcIzeZAJuPLO0xX7UO\n9scrfAJdMS3+C2NN4sLzzNAAcmdVolpkRWPxnOhRLMoeEvtssBB7bCaAd4KyOZJP\nFVD/i0tTQvN+hiWqpoqHaA/thf21RXYWTkZ2LpOqq6ep4TbUZ6FM/7UKHi7ucZR+\naERMGWdsxV0ITPKi61ewzPw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "therapyhackathon-68@burnished-range-269102.iam.gserviceaccount.com",
+  "client_id": "111847221660908882396",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/therapyhackathon-68%40burnished-range-269102.iam.gserviceaccount.com"
+}
